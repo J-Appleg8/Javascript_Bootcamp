@@ -6,3 +6,11 @@
 //// Overview /////
 //////////////////
 "use strict";
+
+const jonas = {
+  firstName: "James",
+  lastName: "Applegate",
+  age: 2037 - 1996,
+  job: "Teacher",
+  friends: ["Michael", "Peter", "Steven"],
+};
